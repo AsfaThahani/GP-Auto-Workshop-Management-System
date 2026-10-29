@@ -10,6 +10,19 @@ This software was developed solely for educational, academic, and portfolio demo
 
 ---
 
+## Application Previews
+
+### Dashboard and Financial Analytics
+![Dashboard](assets/dashboard.png)
+
+### Invoicing and Job Cards
+![Billing](assets/billing.png)
+
+### Sales and Profit Margins
+![Sales](assets/sales.png)
+
+---
+
 ## Key Features
 
 - **Comprehensive Financial Analytics**:
