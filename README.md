@@ -77,11 +77,11 @@ cd GP-Auto-Workshop-Management-System
 
 ### 2. Backend Setup
 ```bash
-cd GPAutoAccounts-Backend
+cd GPAuto-Backend
 npm install
 ```
 
-Create a `.env` file in `GPAutoAccounts-Backend/` based on `.env.example`:
+Create a `.env` file in `GPAuto-Backend/` based on `.env.example`:
 ```env
 MONGO_URI=mongodb+srv://<username>:<password>@cluster0.mongodb.net/GPAutoPulseDB
 GEMINI_API_KEY=your_gemini_api_key_here
